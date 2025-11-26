@@ -43,9 +43,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashennisal&theme=dark&hide_border=true"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashennisal&show_icons=true&locale=en&layout=compact" alt="ashennisal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashennisal&show_icons=true&locale=en&layout=compact" alt="ashennisal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashennisal&show_icons=true&locale=en" alt="ashennisal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashennisal&show_icons=true&locale=en" alt="ashennisal" /></p>
 
 ---
 
